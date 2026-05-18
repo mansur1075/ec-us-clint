@@ -40,10 +40,6 @@ const Card = ({ cardimg, title, price, lessprice, less, star, rating, className,
                     </div>
                 </div>
 
-
-
-
-                
             </div>
             <h1 onClick={handleClick} className=' mt-4 mb-2 cursor-pointer font-medium'>{title}</h1>
             <div className={flex}>
