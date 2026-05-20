@@ -10,6 +10,10 @@ const CartItem = ({ img, name, Price, Subtotal, className }) => {
                     <img src={x} className={`absolute -top-1 -left-3 ${className}`} alt="" />
                 </div>
                 <p>{name}</p>
+
+
+
+                
             </div>
             <div className='text-center'>${Price}</div>
             <div className='text-center'>
