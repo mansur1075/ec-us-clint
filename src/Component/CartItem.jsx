@@ -8,11 +8,6 @@ const CartItem = ({ img, name, Price, Subtotal, className }) => {
                 <div className='relative'>
                     <img className='h-[55px] w-[55px]' src={img} alt="" />
                     <img src={x} className={`absolute -top-1 -left-3 ${className}`} alt="" />
-
-
-
-
-
                 </div>
                 <p>{name}</p>
             </div>
