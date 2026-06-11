@@ -20,7 +20,10 @@ const CartItem = ({ img, name, Price, Subtotal, className }) => {
     )
 
 
+
     
+
+
 }
 
 export default CartItem
