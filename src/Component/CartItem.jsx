@@ -18,6 +18,9 @@ const CartItem = ({ img, name, Price, Subtotal, className }) => {
             <div className='text-center'>${Subtotal}</div>
         </div>
     )
+
+
+    
 }
 
 export default CartItem
