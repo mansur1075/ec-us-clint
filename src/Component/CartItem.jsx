@@ -17,6 +17,16 @@ const CartItem = ({ img, name, Price, Subtotal, className }) => {
             </div>
             <div className='text-center'>${Subtotal}</div>
         </div>
+
+
+
+
+
+
+
+
+
+
     )
 }
 
