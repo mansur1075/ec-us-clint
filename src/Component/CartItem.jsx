@@ -27,6 +27,9 @@ const CartItem = ({ img, name, Price, Subtotal, className }) => {
 
 
 
+
+
+
     )
 }
 
